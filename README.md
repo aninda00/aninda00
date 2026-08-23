@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=580&height=44&lines=I%20am%20a%20Petroleum%20and%20Mining%20engineer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=580&height=44&lines=I%20am%20a%20Petroleum%20and%20Mining%20Engineer" alt="Typing headlines" />
 </p>
 
 
