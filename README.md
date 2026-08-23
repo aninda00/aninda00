@@ -39,12 +39,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=aninda00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aninda00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aninda00&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><i>⭐️ From <a href="https://github.com/aninda00">aninda00</a></i></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
